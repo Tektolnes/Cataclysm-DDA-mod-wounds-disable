@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "wounds_disable",
+    "name": "Disable Wounds",
+    "authors": [ "Tektolnes" ],
+    "maintainers": [ "Tektolnes" ],
+    "description": "Turns off wounds, primarily for testing the balance of new content developed mostly pre-wounds.  Likely has some broken parts.  Use with caution.",
+    "category": "rebalance"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "WOUND_CHANCE",
+    "//": "Probability to get a wound from taking damage.  0.25 means 25% to get a wound.",
+    "stype": "float",
+    "value": 0.0
+  }
+]
